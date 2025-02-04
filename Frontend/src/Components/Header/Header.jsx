@@ -18,7 +18,7 @@ function Header() {
       <ul className="hidden md:flex gap-5 text-white text-lg">
         <li className="p-2 border-amber-400 border-[1px] rounded-md hover:bg-amber-400">Home</li>
         <li className="p-2 border-amber-400 border-[1px] rounded-md hover:bg-amber-400">About</li>
-        <li className="p-2 border-amber-400 border-[1px] rounded-md hover:bg-amber-400">Contact</li>
+        <li className="p-2 border-amber-400 border-[1px] rounded-md hover:bg-amber-400">Become A Host</li>
       </ul>
 
       {/* Right Side: Login & Sign Up */}
@@ -40,7 +40,7 @@ function Header() {
           <ul className="flex flex-col gap-3 text-white text-lg">
             <li className="p-2 border-amber-400 border-[1px] rounded-md hover:bg-amber-400">Home</li>
             <li className="p-2 border-amber-400 border-[1px] rounded-md hover:bg-amber-400">About</li>
-            <li className="p-2 border-amber-400 border-[1px] rounded-md hover:bg-amber-400">Contact</li>
+            <li className="p-2 border-amber-400 border-[1px] rounded-md hover:bg-amber-400">Become A Host</li>
             <button className="px-3 py-1 border-amber-400 border-[1px] text-white rounded-md hover:bg-amber-400">Login</button>
             <button className="px-3 py-1 border-amber-400 border-[1px] text-white rounded-md hover:bg-amber-400">Sign Up</button>
           </ul>
